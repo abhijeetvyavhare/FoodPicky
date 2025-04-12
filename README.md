@@ -66,7 +66,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Contact
 
-**Dipak Mohite**
+**Abhijeet Vyavhare**
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/abhijeetvyavhare/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)](https://github.com/abhijeetvyavhare)
