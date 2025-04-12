@@ -28,7 +28,7 @@ FoodyPicky is a comprehensive food ordering system designed to streamline the pr
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/dipak-mohite/FoodyPicky.git
+   git clone https://github.com/abhijeetvyavhare/FoodyPicky.git
    cd FoodyPicky
    ```
 
@@ -68,7 +68,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 **Dipak Mohite**
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/dipak-mohite/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)](https://github.com/dipak-mohite)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/abhijeetvyavhare/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)](https://github.com/abhijeetvyavhare)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dipakmohite01/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/dipakmohite01)
